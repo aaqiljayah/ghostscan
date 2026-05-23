@@ -48,20 +48,7 @@ python scanner.py scanme.nmap.org -t 0.5 --threads 200
 
 ## Example Output
 
-```
-  Target   :  scanme.nmap.org  (45.33.32.156)
-  IP       :  45.33.32.156
-  Ports    :  27 to scan
-  Started  :  2025-05-23 15:30:00
-
-  PORT      STATE       SERVICE
-  ────────────────────────────────────────
-  22        open        SSH
-  80        open        HTTP
-  ────────────────────────────────────────
-
-  [✓] 2 open port(s) found  in 1.23s
-```
+![ghostscan scanning scanme.nmap.org](screenshot.png)
 
 ---
 
