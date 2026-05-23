@@ -1,4 +1,4 @@
-# portscanner
+# ghostscan
 
 A lightweight TCP connect port scanner built in Python — no external dependencies, just the standard library.
 
